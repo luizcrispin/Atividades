@@ -1,2 +1,2 @@
 # Atividades
- Trabalhando com Estruturas de Decisão e Estruturas de Repetição.
+ Trabalhando com Estruturas de Repetição e Estruturas Condicionais.
